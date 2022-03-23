@@ -1,0 +1,5 @@
+name: SpigotEconomySystem
+version: 1.0
+author: 212thFaid
+main: de.faidhd.economysystem.spigot.SpigotEconomySystemPlugin
+api-version: 1.16
